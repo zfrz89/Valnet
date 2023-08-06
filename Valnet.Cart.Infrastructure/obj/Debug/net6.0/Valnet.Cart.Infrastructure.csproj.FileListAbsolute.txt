@@ -1,0 +1,17 @@
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Infrastructure\bin\Debug\net6.0\Valnet.Cart.Infrastructure.deps.json
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Infrastructure\bin\Debug\net6.0\Valnet.Cart.Infrastructure.dll
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Infrastructure\bin\Debug\net6.0\Valnet.Cart.Infrastructure.pdb
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Infrastructure\bin\Debug\net6.0\Valnet.Cart.Application.dll
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Infrastructure\bin\Debug\net6.0\Valnet.Cart.Model.dll
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Infrastructure\bin\Debug\net6.0\Valnet.Cart.Application.pdb
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Infrastructure\bin\Debug\net6.0\Valnet.Cart.Model.pdb
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Infrastructure\obj\Debug\net6.0\Valnet.Cart.Infrastructure.csproj.AssemblyReference.cache
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Infrastructure\obj\Debug\net6.0\Valnet.Cart.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Infrastructure\obj\Debug\net6.0\Valnet.Cart.Infrastructure.AssemblyInfoInputs.cache
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Infrastructure\obj\Debug\net6.0\Valnet.Cart.Infrastructure.AssemblyInfo.cs
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Infrastructure\obj\Debug\net6.0\Valnet.Cart.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Infrastructure\obj\Debug\net6.0\Valnet.Cart.Infrastructure.csproj.CopyComplete
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Infrastructure\obj\Debug\net6.0\Valnet.Cart.Infrastructure.dll
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Infrastructure\obj\Debug\net6.0\refint\Valnet.Cart.Infrastructure.dll
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Infrastructure\obj\Debug\net6.0\Valnet.Cart.Infrastructure.pdb
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Infrastructure\obj\Debug\net6.0\ref\Valnet.Cart.Infrastructure.dll
