@@ -1,0 +1,15 @@
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Application\bin\Debug\net6.0\Valnet.Cart.Application.deps.json
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Application\bin\Debug\net6.0\Valnet.Cart.Application.dll
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Application\bin\Debug\net6.0\Valnet.Cart.Application.pdb
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Application\bin\Debug\net6.0\Valnet.Cart.Model.dll
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Application\bin\Debug\net6.0\Valnet.Cart.Model.pdb
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Application\obj\Debug\net6.0\Valnet.Cart.Application.csproj.AssemblyReference.cache
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Application\obj\Debug\net6.0\Valnet.Cart.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Application\obj\Debug\net6.0\Valnet.Cart.Application.AssemblyInfoInputs.cache
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Application\obj\Debug\net6.0\Valnet.Cart.Application.AssemblyInfo.cs
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Application\obj\Debug\net6.0\Valnet.Cart.Application.csproj.CoreCompileInputs.cache
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Application\obj\Debug\net6.0\Valnet.Cart.Application.csproj.CopyComplete
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Application\obj\Debug\net6.0\Valnet.Cart.Application.dll
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Application\obj\Debug\net6.0\refint\Valnet.Cart.Application.dll
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Application\obj\Debug\net6.0\Valnet.Cart.Application.pdb
+F:\Farzan\codeChallenge\valnet-test-assignment-be.v1.2\Valnet.Cart.Application\obj\Debug\net6.0\ref\Valnet.Cart.Application.dll
